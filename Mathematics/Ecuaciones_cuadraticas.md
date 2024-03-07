@@ -6,10 +6,13 @@ $$
 
 Donde podemos considerar las siguientes operaciones:
 - Determinante:
+  
 $$ 
 D = b^2 - 4ac    
 $$
+
 - El valor de x:
+  
 $$
 x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}}
 $$
