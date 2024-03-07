@@ -27,10 +27,14 @@ Aquí hay algunos de los temas fundamentales que cubriremos en esta guía:
 11. Tópicos avanzados (geometría computacional, teoría de juegos)
 12. Consejos para competencias de programación
 
+## ¡Empecemos!
+
+Estás listo para comenzar tu viaje en la programación competitiva. Sigue leyendo, practicando y participando en competencias para mejorar tus habilidades y alcanzar nuevos logros. ¡Buena suerte y diviértete programando!
+
 ## Contribuir
 
 ¡Tus contribuciones son bienvenidas! Si tienes alguna corrección, sugerencia o contenido adicional que crees que sería útil para esta guía, no dudes en abrir un problema o enviar una solicitud de extracción. Juntos podemos hacer que esta guía sea aún más completa y útil para la comunidad de programación competitiva.
 
-## ¡Empecemos!
+## Licencia
 
-Estás listo para comenzar tu viaje en la programación competitiva. Sigue leyendo, practicando y participando en competencias para mejorar tus habilidades y alcanzar nuevos logros. ¡Buena suerte y diviértete programando!
+Este repositorio está bajo la [Licencia MIT](https://opensource.org/licenses/MIT). Siéntete libre de usar, modificar y distribuir el contenido de este repositorio para tus propios propósitos.
