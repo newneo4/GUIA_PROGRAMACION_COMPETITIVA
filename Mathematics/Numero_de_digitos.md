@@ -29,7 +29,7 @@ int contarDigitos(long n){
 }
 ```
 
-## ALGORITMO LINEAL
+## SOLUCION OPTIMIZADA
 
 ```cpp
 int contarDigitos(int n){
