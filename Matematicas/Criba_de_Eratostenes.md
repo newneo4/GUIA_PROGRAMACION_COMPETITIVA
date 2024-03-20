@@ -1,4 +1,4 @@
-## CRIBA DE ERATOSTENE
+## CRIBA DE ERATOSTENES
 La criba de Eratóstenes es un algoritmo utilizado para encontrar todos los números primos hasta un cierto límite.
 
 El proceso básico de la criba de Eratóstenes implica los siguientes pasos:
