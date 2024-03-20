@@ -14,6 +14,8 @@ int exponenciacion(int x, int n){
         x = x * x;
         n = n/2;
     }
+
+    return res;
 }
 ```
 El algoritmo sigue estos pasos:
