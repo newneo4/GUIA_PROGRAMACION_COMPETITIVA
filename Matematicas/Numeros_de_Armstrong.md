@@ -2,9 +2,9 @@
 
 Los números de Armstrong, también conocidos como números narcisistas o números plenos, son aquellos números que son iguales a la suma de sus dígitos elevados a la potencia del número total de dígitos. Por ejemplo, 153 es un número de Armstrong porque:
 
-$
+$$
     (1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153)
-$
+$$
 
 ```cpp
 #include <iostream>
