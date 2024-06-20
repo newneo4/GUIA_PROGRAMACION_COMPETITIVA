@@ -60,6 +60,7 @@ void factoresPrimos(int n){
 }
 ```
 Como podemos ver en este punto hemos reducido sustancialmente las iteraciones, dado que ya no tenemos un for anidado tres veces, ni tenemos la intencion de iterar sobre todos los numeros desde 2 hasta n. Sin embargo, podemos seguir optimizando aun mas este codigo, siguiente la idea expuesta en el archivo de numeros primos, que sugiere eliminar primero los multiplos de 2 y 3, para asi poder seguir con los demas primos que tienen la forma de:
+
 $$ 
 {6n+1} \quad \text{o} \quad {6n-1}  
 $$
