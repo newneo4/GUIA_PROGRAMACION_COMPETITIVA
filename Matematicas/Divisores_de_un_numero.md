@@ -43,7 +43,7 @@ void divisores(int n){
     int i;
 
     //primero imprimimos los divisores de i hasta raiz de n
-    for(int i = 0; i * i < n; i++){
+    for(int i = 1; i * i < n; i++){
         if(n % i == 0) cout<<i<<' ';
     }
 
