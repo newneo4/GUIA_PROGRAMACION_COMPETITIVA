@@ -40,10 +40,10 @@ Si somos un poco observados podremos darnos cuenta que aunque el algoritmo halla
 ### Algoritmo eficiente
 ```cpp
 void divisores(int n){
-    int i;
+    int i = 1;
 
     //primero imprimimos los divisores de i hasta raiz de n
-    for(int i = 1; i * i < n; i++){
+    for(; i * i < n; i++){
         if(n % i == 0) cout<<i<<' ';
     }
 
